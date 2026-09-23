@@ -12,7 +12,6 @@ AI반도체융합과에서 공부하고 있습니다. 반도체 기반에 AI 기
 - **음성 분석**: librosa로 Mel Spectrogram, RMS, 무음 구간 분석 / Web Speech API 기반 실시간 STT
 - **백엔드**: FastAPI Router, JWT 인증, WebSocket ConnectionManager, 파일 업로드
 
-🔗 [Interview-Help-AI](https://github.com/Kangnagi/Interview-Help-AI)
 
 ### 🖐️ 다중 카메라 3D 손 추적을 위한 합성 데이터 생성 — 진행 중
 카메라 3대를 이용한 3D 손 자세 추정을 목표로, 딥러닝 학습용 합성 데이터를 만들고 있습니다.
